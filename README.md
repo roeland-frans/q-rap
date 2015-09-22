@@ -8,31 +8,29 @@ Q-Rap can be used by radio amateurs, Wi-Fi mesh designers, cellular operators, c
 While the software is free for use by any-one, we particularly hope that it will serve as an enabler for radio amateurs, students and researchers. As for those who intent making (saving) money using Q-Rap, we kindly request you say thank you.
 
 ### Code Contributors
-Magdaleen Ballot from University of Pretoria
-Gabriel de Sousa (now an UP graduate)
-Roeland van Nieuwkerk (now an UP graduate)
-Dirk van der Merwe (now an UP graduate)
-Thane Thomson (now an UP graduate)
-Shaun Barlow (now an UP graduate)
-Christo du Plessis (now an UP graduate)
+- Magdaleen Ballot from University of Pretoria
+- Gabriel de Sousa (now an UP graduate)
+- Roeland van Nieuwkerk (now an UP graduate)
+- Dirk van der Merwe (now an UP graduate)
+- Thane Thomson (now an UP graduate)
+- Shaun Barlow (now an UP graduate)
+- Christo du Plessis (now an UP graduate)
 
 ### General Support
-Hennie de Lange from Radio Technical SAPS
-Kobus Roux from Meraka Institute, CSIR
-Madelein van der Berg from Meraka Institute, CSIR
-Anita van Deventer from Meraka Institute, CSIR
-Adrian Tiplady from the SKA-project and the DST who initiated and sponsored the Spectral Interference Tool. 
+- Hennie de Lange from Radio Technical SAPS
+- Kobus Roux from Meraka Institute, CSIR
+- Madelein van der Berg from Meraka Institute, CSIR
+- Anita van Deventer from Meraka Institute, CSIR
+- Adrian Tiplady from the SKA-project and the DST who initiated and sponsored the Spectral Interference Tool. 
 
 ### Testing
-Danie Nel from SAPS
-Richard Irish from SAPS
-Anita van Deventer from CSIR Meraka Institute
+- Danie Nel from SAPS
+- Richard Irish from SAPS
+- Anita van Deventer from CSIR Meraka Institute
 
 ### Repo
-
 Currently this is a mirror repo of the source code available on sourceforge.net.
 
 ### Documentation
-
 Detailed documentation can be found on the Q-Rap web site - http://www.qrap.org.za/
 
